@@ -9,7 +9,7 @@
 
 - 🎮 Fun fact **I love to play video games.**
 
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephdgb1996&layout=compact&hide=html" alt="josephdgb1996" /></p>
 
-<br />
+<br>
 
 ### My Stats:
 
