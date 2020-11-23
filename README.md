@@ -16,6 +16,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
   <img src="https://github.com/josephdgb1996/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="dart" width="22" height="22"/>
+  <img src="https://github.com/josephdgb1996/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="dart" width="22" height="22"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephdgb1996&layout=compact&hide=html" alt="abuanwar072" /></p>
