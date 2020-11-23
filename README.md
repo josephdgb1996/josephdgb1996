@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 🎮 Fun fact **I love to play video games.**
+- 🎮 Fun fact **I love to play video games**
 
 <br>
 
