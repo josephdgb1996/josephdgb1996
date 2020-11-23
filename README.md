@@ -25,6 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephdgb1996&layout=compact&hide=html" alt="abuanwar072" /></p>
 
+<br />
+
 ### My Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephdgb1996&show_icons=true" alt="abuanwar072" /></p>
