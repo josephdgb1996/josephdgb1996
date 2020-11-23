@@ -23,9 +23,9 @@
   <img src="https://github.com/josephdgb1996/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="dart" width="22" height="22"/>
 </p>
 
-<p>next line</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephdgb1996&layout=compact&hide=html" alt="josephdgb1996" /></p> <br>
+
+<p>next line</p>
 
 ### My Stats:
 
