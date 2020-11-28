@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Garcia</h1>
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-- 🔭 I’m currently working on [Ebit Software](http://ebit-software.com), [Sistemas Informaticos Genesis](https://sistemasgenesis.com.ec/), [Joseph Garcia](https://www.youtube.com/channel/UCHTSG1INQutbW1DMfA6zXOw?view_as=subscriber/)
+- 🔭 I’m currently working on  [Joseph García Youtube](https://www.youtube.com/channel/UCHTSG1INQutbW1DMfA6zXOw?view_as=subscriber/), [Ebit Software](http://ebit-software.com), [Sistemas Informaticos Genesis](https://sistemasgenesis.com.ec/),
 
 - 🌱 I’m currently learning **Flutter**, **Microservices**
 
